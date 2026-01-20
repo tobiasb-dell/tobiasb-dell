@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔐 [dell-secureboot-ansible](https://github.com/tobiasb-dell/dell-secureboot-ansible) Ansible playbook for configuring BIOS and Secure Boot on Dell PowerEdge servers
 - 🐠 [gofish](https://github.com/stmcginnis/gofish) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 - ⌨️ [ironcore-metal](https://github.com/ironcore-dev/metal-operator) - Kubernetes operator for automating bare metal server discovery and provisioning
-- 🔨 [dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules] Dell OpenManage Ansible Modules
+- 🔨 [dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules) Dell OpenManage Ansible Modules
 
 ## Stack
 
