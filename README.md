@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## What I'm working on
+
+🛠️ **Infrastructure Libraries** – Tools around managing Dell Infrastructure
+- 🐠 [gofish](https://github.com/stmcginnis/gofish) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
+
+## Stack
+
+Go • TypeScript • Node.js • Ansible • AI/LLM tooling
